@@ -1,0 +1,32 @@
+.navbar_style {
+    background-color: rgb(17, 17, 121);
+    font-family: "Arial";
+    color: white;
+    padding: 20px 30px;
+    height: 80px;        
+}
+
+.header_text {
+    color: white;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.button_style {
+    background-color: rgb(17, 17, 121);
+    color: rgb(211, 237, 244);
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+    border: none;
+    padding: 10px 20px;
+}
+
+table.table_style {
+    border: 1px solid black;
+}
+
+table.table_style thead {
+    background-color: rgb(211, 237, 244) !important;
+    font-family: "Arial" !important;
+    color: rgb(17, 17, 121) !important;
+}
