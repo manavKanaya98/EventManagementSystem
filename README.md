@@ -37,7 +37,7 @@ Firstly, navigate into the **server** directory `cd ../server`.
 Next, start the back-end of the system by using the command `node index.js`.
 
 Then, open a new terminal instance and navigate into the **client** directory of the project.
-Now, run the front-end by using the command `npm run`.
+Now, run the front-end by using the command `npm start`.
 
 The application will now be available to view on the URL http://localhost:3000 in a browser.
 
